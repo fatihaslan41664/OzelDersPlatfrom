@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCF8A0-725A-4CB5-9733-1ADCC7960EEA}|OzelDersPlatform.Entity\\OzelDersPlatform.Entity.csproj|c:\\users\\salih\\ozeldersplatfrom\\ozeldersplatformback\\ozeldersplatform.entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCF8A0-725A-4CB5-9733-1ADCC7960EEA}|OzelDersPlatform.Entity\\OzelDersPlatform.Entity.csproj|solutionrelative:ozeldersplatform.entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCF8A0-725A-4CB5-9733-1ADCC7960EEA}|OzelDersPlatform.Entity\\OzelDersPlatform.Entity.csproj|c:\\users\\salih\\ozeldersplatfrom\\ozeldersplatformback\\ozeldersplatform.entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCF8A0-725A-4CB5-9733-1ADCC7960EEA}|OzelDersPlatform.Entity\\OzelDersPlatform.Entity.csproj|solutionrelative:ozeldersplatform.entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCF8A0-725A-4CB5-9733-1ADCC7960EEA}|OzelDersPlatform.Entity\\OzelDersPlatform.Entity.csproj|c:\\users\\salih\\ozeldersplatfrom\\ozeldersplatformback\\ozeldersplatform.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCF8A0-725A-4CB5-9733-1ADCC7960EEA}|OzelDersPlatform.Entity\\OzelDersPlatform.Entity.csproj|solutionrelative:ozeldersplatform.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCF8A0-725A-4CB5-9733-1ADCC7960EEA}|OzelDersPlatform.Entity\\OzelDersPlatform.Entity.csproj|c:\\users\\salih\\ozeldersplatfrom\\ozeldersplatformback\\ozeldersplatform.entity\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCF8A0-725A-4CB5-9733-1ADCC7960EEA}|OzelDersPlatform.Entity\\OzelDersPlatform.Entity.csproj|solutionrelative:ozeldersplatform.entity\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE60F8-3E09-4E81-A0DD-790920409787}|OzelDersPlatform.API\\OzelDersPlatform.API.csproj|c:\\users\\salih\\ozeldersplatfrom\\ozeldersplatformback\\ozeldersplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CDE60F8-3E09-4E81-A0DD-790920409787}|OzelDersPlatform.API\\OzelDersPlatform.API.csproj|solutionrelative:ozeldersplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Data\\Migrations\\20250307221805_deneme1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OzelDersPlatform.Data\\Migrations\\20250307221805_deneme1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE60F8-3E09-4E81-A0DD-790920409787}|OzelDersPlatform.API\\OzelDersPlatform.API.csproj|c:\\users\\salih\\ozeldersplatfrom\\ozeldersplatformback\\ozeldersplatform.api\\ozeldersplatform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CDE60F8-3E09-4E81-A0DD-790920409787}|OzelDersPlatform.API\\OzelDersPlatform.API.csproj|solutionrelative:ozeldersplatform.api\\ozeldersplatform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE60F8-3E09-4E81-A0DD-790920409787}|OzelDersPlatform.API\\OzelDersPlatform.API.csproj|c:\\users\\salih\\ozeldersplatfrom\\ozeldersplatformback\\ozeldersplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE60F8-3E09-4E81-A0DD-790920409787}|OzelDersPlatform.API\\OzelDersPlatform.API.csproj|solutionrelative:ozeldersplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F899C069-0BD0-484D-B865-6E7634795654}|OzelDersPlatform.Data\\OzelDersPlatform.Data.csproj|c:\\users\\salih\\ozeldersplatfrom\\ozeldersplatformback\\ozeldersplatform.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F899C069-0BD0-484D-B865-6E7634795654}|OzelDersPlatform.Data\\OzelDersPlatform.Data.csproj|solutionrelative:ozeldersplatform.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCF8A0-725A-4CB5-9733-1ADCC7960EEA}|OzelDersPlatform.Entity\\OzelDersPlatform.Entity.csproj|c:\\users\\salih\\ozeldersplatfrom\\ozeldersplatformback\\ozeldersplatform.entity\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCF8A0-725A-4CB5-9733-1ADCC7960EEA}|OzelDersPlatform.Entity\\OzelDersPlatform.Entity.csproj|solutionrelative:ozeldersplatform.entity\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFCF8A0-725A-4CB5-9733-1ADCC7960EEA}|OzelDersPlatform.Entity\\OzelDersPlatform.Entity.csproj|c:\\users\\salih\\ozeldersplatfrom\\ozeldersplatformback\\ozeldersplatform.entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFCF8A0-725A-4CB5-9733-1ADCC7960EEA}|OzelDersPlatform.Entity\\OzelDersPlatform.Entity.csproj|solutionrelative:ozeldersplatform.entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250307221805_deneme1.cs",
+              "DocumentMoniker": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Data\\Migrations\\20250307221805_deneme1.cs",
+              "RelativeDocumentMoniker": "OzelDersPlatform.Data\\Migrations\\20250307221805_deneme1.cs",
+              "ToolTip": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Data\\Migrations\\20250307221805_deneme1.cs",
+              "RelativeToolTip": "OzelDersPlatform.Data\\Migrations\\20250307221805_deneme1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T22:18:05.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OzelDersPlatform.API",
+              "DocumentMoniker": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.API\\OzelDersPlatform.API.csproj",
+              "RelativeDocumentMoniker": "OzelDersPlatform.API\\OzelDersPlatform.API.csproj",
+              "ToolTip": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.API\\OzelDersPlatform.API.csproj",
+              "RelativeToolTip": "OzelDersPlatform.API\\OzelDersPlatform.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T22:14:44.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.API\\Program.cs",
+              "RelativeDocumentMoniker": "OzelDersPlatform.API\\Program.cs",
+              "ToolTip": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.API\\Program.cs",
+              "RelativeToolTip": "OzelDersPlatform.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:57:43.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OzelDersPlatform.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.API\\appsettings.json",
+              "RelativeToolTip": "OzelDersPlatform.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T21:51:31.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OzelDersPlatform.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OzelDersPlatform.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:40:31.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Entity\\Student.cs",
+              "RelativeDocumentMoniker": "OzelDersPlatform.Entity\\Student.cs",
+              "ToolTip": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Entity\\Student.cs",
+              "RelativeToolTip": "OzelDersPlatform.Entity\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:38:42.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Entity\\Application.cs",
+              "RelativeDocumentMoniker": "OzelDersPlatform.Entity\\Application.cs",
+              "ToolTip": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Entity\\Application.cs",
+              "RelativeToolTip": "OzelDersPlatform.Entity\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:38:09.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Entity\\Teacher.cs",
+              "RelativeDocumentMoniker": "OzelDersPlatform.Entity\\Teacher.cs",
+              "ToolTip": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Entity\\Teacher.cs",
+              "RelativeToolTip": "OzelDersPlatform.Entity\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:36:54.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Entity\\Lesson.cs",
+              "RelativeDocumentMoniker": "OzelDersPlatform.Entity\\Lesson.cs",
+              "ToolTip": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Entity\\Lesson.cs",
+              "RelativeToolTip": "OzelDersPlatform.Entity\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:36:30.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "OzelDersPlatform.Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Entity\\BaseEntity.cs",
+              "RelativeToolTip": "OzelDersPlatform.Entity\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:34:37.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Entity\\User.cs",
+              "RelativeDocumentMoniker": "OzelDersPlatform.Entity\\User.cs",
+              "ToolTip": "C:\\Users\\salih\\OzelDersPlatfrom\\OzelDersPlatformBack\\OzelDersPlatform.Entity\\User.cs",
+              "RelativeToolTip": "OzelDersPlatform.Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:28:47.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OzelDersPlatform.API.props" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\salih\OzelDersPlatfrom\OzelDersPlatformBack\OzelDersPlatform.Entity\bin\Debug\net8.0\OzelDersPlatform.Entity.deps.json
+C:\Users\salih\OzelDersPlatfrom\OzelDersPlatformBack\OzelDersPlatform.Entity\bin\Debug\net8.0\OzelDersPlatform.Entity.dll
+C:\Users\salih\OzelDersPlatfrom\OzelDersPlatformBack\OzelDersPlatform.Entity\bin\Debug\net8.0\OzelDersPlatform.Entity.pdb
+C:\Users\salih\OzelDersPlatfrom\OzelDersPlatformBack\OzelDersPlatform.Entity\obj\Debug\net8.0\OzelDersPlatform.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\OzelDersPlatfrom\OzelDersPlatformBack\OzelDersPlatform.Entity\obj\Debug\net8.0\OzelDersPlatform.Entity.AssemblyInfoInputs.cache
+C:\Users\salih\OzelDersPlatfrom\OzelDersPlatformBack\OzelDersPlatform.Entity\obj\Debug\net8.0\OzelDersPlatform.Entity.AssemblyInfo.cs
+C:\Users\salih\OzelDersPlatfrom\OzelDersPlatformBack\OzelDersPlatform.Entity\obj\Debug\net8.0\OzelDersPlatform.Entity.csproj.CoreCompileInputs.cache
+C:\Users\salih\OzelDersPlatfrom\OzelDersPlatformBack\OzelDersPlatform.Entity\obj\Debug\net8.0\OzelDersPlatform.Entity.sourcelink.json
+C:\Users\salih\OzelDersPlatfrom\OzelDersPlatformBack\OzelDersPlatform.Entity\obj\Debug\net8.0\OzelDersPlatform.Entity.dll
+C:\Users\salih\OzelDersPlatfrom\OzelDersPlatformBack\OzelDersPlatform.Entity\obj\Debug\net8.0\refint\OzelDersPlatform.Entity.dll
+C:\Users\salih\OzelDersPlatfrom\OzelDersPlatformBack\OzelDersPlatform.Entity\obj\Debug\net8.0\OzelDersPlatform.Entity.pdb
+C:\Users\salih\OzelDersPlatfrom\OzelDersPlatformBack\OzelDersPlatform.Entity\obj\Debug\net8.0\ref\OzelDersPlatform.Entity.dll
